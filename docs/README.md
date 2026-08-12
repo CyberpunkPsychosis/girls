@@ -32,6 +32,7 @@
 | [`03-attachment-and-texting.md`](03-attachment-and-texting.md) | 依恋类型 × 发消息习惯。学界真正在用的分类 | B |
 | [`04-mbti-heuristics.md`](04-mbti-heuristics.md) | MBTI 层。**已明确降级为启发式**，见文档内说明 | D |
 | [`05-chat-examples.md`](05-chat-examples.md) | 日常聊天语料清单，逐组标注证据等级 | 多为 D |
+| [`06-how-to-tell.md`](06-how-to-tell.md) | 怎么判断对方（含星座为什么不能用），以及个性化语录的信息清单 | B / D |
 | [`archive/`](archive/) | 早期的游戏设计向版本，已归档，不代表当前结论 | — |
 
 ---
@@ -57,6 +58,9 @@ Huang 等人 2017 年（JPSP）用真实速配约会数据发现，追问更多�
 **真正扎实的部分是跨类型的通用规律（回应好消息、追问、具体性）；按人格类型细分的部分是没有依据的猜测。**
 
 前者可以直接用，后者只能当灵感。
+
+推论：**你多半不需要"确定对方是哪一型"**——最有效的两条对所有人成立。
+真要判断，看行为，别看标签。见 [`06-how-to-tell.md`](06-how-to-tell.md)。
 
 ---
 
